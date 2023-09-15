@@ -1,0 +1,5 @@
+
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/rapidapi/rapidapi/pom.properties
+rapidapi.iml
+*.xml
